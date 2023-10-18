@@ -32,6 +32,7 @@ Ahora que sabemos de que va el programa, lectura de CSV y guardaro en bases de d
     9. Se le pregunta al usuario, si desea almacenar el datasets en la base de datos.
     10. Se almacena el dataset en la base de datos con el nombre propio del dicho dataset y termina el programa.
 
+Para funcional programa se debe tener instalado MongoDB y Pymongo
 Claro esta que, se puede ir detallando mas el programa, pero hasta cierto punto cumple con su proposito, almacenar cualquier CSV sin importar su estructura en una base de datos.
 ## 🚀 About Me
 Estudiante de la poderosisima carrera de Ingenieria en Tecnologias de Informacion y Comunicacion. Ya en noveno semetre gente.
