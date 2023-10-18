@@ -1,4 +1,3 @@
-
 # Hi, I'm Jose Torres! 👋
 # CSV y Diccionarios
 En esta practica se hace la lectura de archivos csv previamente adquirido, pero se han agregado otrs archivos csv, esto para testear sus funciones. El objetivo de esta practica es sencillo, leer y guardar el csv en la base de datos.
