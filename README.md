@@ -34,6 +34,6 @@ Ahora que sabemos de que va el programa, lectura de CSV y guardaro en bases de d
 
 Claro esta que, se puede ir detallando mas el programa, pero hasta cierto punto cumple con su proposito, almacenar cualquier CSV sin importar su estructura en una base de datos.
 ## 🚀 About Me
-Estudiante de la poderosisima carrer de Ingenieria en Tecnologias de Informacion y Comunicacion. Ya en noveno semetre gente.
+Estudiante de la poderosisima carrera de Ingenieria en Tecnologias de Informacion y Comunicacion. Ya en noveno semetre gente.
 
 Saludos para quien vea este Readme
