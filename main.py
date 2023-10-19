@@ -64,8 +64,8 @@ class PracticaCSV:
                 
             else:
                 print("Indice invalido. Por favor, ingrese un numero valido.")
-        except ValueError:
-            print("Indice invlaido,Por favor, ingresa un numero valido.")
+        #except ValueError:
+         #   print("Indice invlaido,Por favor, ingresa un numero valido.")
 
         except Exception as e:
             print(f"Ocurrio un error: {e}")

@@ -2,11 +2,16 @@
 # CSV y Diccionarios
 En esta practica se hace la lectura de archivos csv previamente adquirido, pero se han agregado otrs archivos csv, esto para testear sus funciones. El objetivo de esta practica es sencillo, leer y guardar el csv en la base de datos.
 
-## Objetivo
-    1. Leer el archivo CSV
-    2. Transformar el CSV a diccionarios con Python
-    3. Almacenar el diccionario en una lista
-    4. Insertar los datos del diccionarios en la base de datos.
+## Objetivo del programa:
+    1. Abrir y leer el CSV.
+    2.	Leerlo como un diccionario.
+    3.	Almacenarlo en una lista
+    4.	Transformarlo a un diccionario
+    5.	Mostrar el contenido de CSV
+    6.	Preguntar si se quiere almacenar el CSV en una base de datos.
+    7.	Insertar datos del CSV con su propio nombre en colecciones en MongoDB.
+    8.	Fin del programa.
+
 
 ## CSV x MongoDB & Python
 El programa se desarrollo en el lenguaje de Python, en el IDE Visual Studio Code (VSCode) y como base de datos MongoDB. Este programa tiene origen a una practica solicitada por el profesor Oscar Cobos, para la materia Analisis Inteligente de Datos 1 de la unidad 2.
@@ -34,7 +39,7 @@ Ahora que sabemos de que va el programa, lectura de CSV y guardaro en bases de d
 
 ### Para funcional programa se debe tener instalado MongoDB y Pymongo.
 
-Claro esta que, se puede ir detallando mas el programa, pero hasta cierto punto cumple con su proposito, almacenar cualquier CSV sin importar su estructura en una base de datos.
+Claro esta que, se puede ir detallando mas el programa, pero hasta cierto punto cumple con su proposito, almacenar cualquier CSV sin importar cual sea su estructura y estos respectivamente insertandolos en colecciones en una base de datos MongoDB.
 
 ## 🚀 About Me
 Estudiante de la poderosisima carrera de Ingenieria en Tecnologias de Informacion y Comunicacion. Ya en noveno semetre gente.
