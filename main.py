@@ -85,10 +85,9 @@ class PracticaCSV:
         else:
             return f"El archivo '{archivo_seleccionado}' no se guardo."
         
-
 #Construccion de la aplicacion
-app_main = PracticaCSV()
-app_main.LecturaCSV()
+app_main = PracticaCSV() #Creamos una instancia a la clase
+app_main.LecturaCSV() #Mandamos a llamar a la clase
 
 #Cerramos la conexion con la base de datos
 client.close()
