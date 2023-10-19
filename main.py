@@ -16,7 +16,7 @@ class PracticaCSV:
         ruta_carpeta = './src/resources/csv'
         
         #Extencion del archivo
-        extencion_archivo = ".csv"
+        extencion_archivo = ""
         
         #Lista para almacenar archivos con la extension
         archivos_con_extencion = []
