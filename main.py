@@ -61,7 +61,6 @@ class PracticaCSV:
                     for fila in contenido:
                        print(fila) #Se imprime/muestra el contenido del CSV ya transformado en diccionario(s).
                        data.append(fila) #Se agrega cada fila como un diccionario a la lista
-                
             else:
                 print("Indice invalido. Por favor, ingrese un numero valido.")
         #except ValueError:
@@ -81,7 +80,7 @@ class PracticaCSV:
             nombre_coleccion=archivo_seleccionado.split('.')[0]#Dividimos el nombre y la extension, quedando solo el nombre 
             coleccion=db[nombre_coleccion]#Guarda la coleccion con el nombre del archivo CSV
             coleccion.insert_many(data)#Inserta los datos del diccionario en la coleccion
-            
+            print(f"El diccionario [{archivo_seleccionado}] se almaceno correctamente.") #Muestra mensaje de exito!
         else:
             return f"El archivo '{archivo_seleccionado}' no se guardo."
         
